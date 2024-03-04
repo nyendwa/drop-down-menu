@@ -1,0 +1,20 @@
+body {
+    display: grid;
+}
+
+label {
+    display: block;
+}
+
+input {
+    display: block;
+    margin: 10px 0 10px 0;
+}
+
+h1 {
+    color: teal;
+}
+
+.container {
+    margin: auto;
+}
